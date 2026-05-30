@@ -103,3 +103,5 @@ Thumbs.db
 # Agent/workspace metadata
 .agent/
 .gemini/
+
+.vercel
